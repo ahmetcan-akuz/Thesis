@@ -1,2 +1,0 @@
-- Fault tolerance for different inverter  types (2-Level, 3-Level NPC or t-type)
-- Multiple fault cases.
